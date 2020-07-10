@@ -1,0 +1,28 @@
+@media (orientation: landscape){
+    @media (min-aspect-ratio: 1/1) and (max-aspect-ratio: 115/100){body{background-color: red;}}
+    @media (min-aspect-ratio: 115/100) and (max-aspect-ratio: 125/100){body{background-color: green;}}
+    @media (min-aspect-ratio: 125/100) and (max-aspect-ratio: 135/100){body{background-color: blue;}}
+    @media (min-aspect-ratio: 135/100) and (max-aspect-ratio: 145/100){body{background-color: brown;}}
+    @media (min-aspect-ratio: 145/100) and (max-aspect-ratio: 155/100){body{background-color: violet;}}
+    @media (min-aspect-ratio: 155/100) and (max-aspect-ratio: 165/100){body{background-color: yellow;}}
+    @media (min-aspect-ratio: 165/100) and (max-aspect-ratio: 175/100){body{background-color: yellow;}}
+    @media (min-aspect-ratio: 175/100) and (max-aspect-ratio: 185/100){body{background-color: orange;}}
+    @media (min-aspect-ratio: 185/100) and (max-aspect-ratio: 195/100){body{background-color: gray;}}
+    @media (min-aspect-ratio: 195/100) and (max-aspect-ratio: 205/100){body{background-color: gold;}}
+    @media (min-aspect-ratio: 205/100) and (max-aspect-ratio: 215/100){body{background-color: cyan;}}
+    @media (min-aspect-ratio: 215/100) and (max-aspect-ratio: 225/100){body{background-color: greenyellow;}}
+    @media (min-aspect-ratio: 225/100) and (max-aspect-ratio: 235/100){body{background-color: greenyellow;}}
+    @media (min-aspect-ratio: 235/100) and (max-aspect-ratio: 245/100){body{background-color: greenyellow;}}
+    @media (min-aspect-ratio: 245/100) and (max-aspect-ratio: 255/100){body{background-color: greenyellow;}}
+    @media (min-aspect-ratio: 265/100) and (max-aspect-ratio: 275/100){body{background-color: greenyellow;}}
+    @media (min-aspect-ratio: 275/100) and (max-aspect-ratio: 285/100){body{background-color: greenyellow;}}
+}
+@media (orientation: portrait){
+    @media (min-aspect-ratio: 30/100) and (max-aspect-ratio: 40/100){body{background-color: red;}}
+    @media (min-aspect-ratio: 40/100) and (max-aspect-ratio: 50/100){body{background-color: green;}}
+    @media (min-aspect-ratio: 50/100) and (max-aspect-ratio: 60/100){body{background-color: blue;}}
+    @media (min-aspect-ratio: 60/100) and (max-aspect-ratio: 70/100){body{background-color: brown;}}
+    @media (min-aspect-ratio: 70/100) and (max-aspect-ratio: 80/100){body{background-color: violet;}}
+    @media (min-aspect-ratio: 80/100) and (max-aspect-ratio: 90/100){body{background-color: yellow;}}
+    @media (min-aspect-ratio: 90/100) and (max-aspect-ratio: 99/100){body{background-color: yellow;}}
+}
